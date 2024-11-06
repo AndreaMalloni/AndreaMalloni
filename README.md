@@ -11,4 +11,4 @@ My most used, and preferred, language is **Python**, which i used for most of my
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/?username=AndreaMalloni&hide_border=true&theme=system&layout=compact&show_icons=true&hide=prs," style="width: 50%"/>
+
